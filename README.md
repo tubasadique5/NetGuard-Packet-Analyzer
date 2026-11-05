@@ -109,6 +109,4 @@ Do not upload private packet captures: they may contain IP addresses, DNS reques
 
 **Tuba Sadique** – project customization and further development.
 
-## Original project
 
-This work is based on the public repository [perryvegehan/Packet_analyzer](https://github.com/perryvegehan/Packet_analyzer). Review the original repository's licensing and obtain any required permission before publishing or redistributing a modified copy. No license file was included in the ZIP supplied for this customization, so this repository does not add a new license or claim ownership of the original code.
